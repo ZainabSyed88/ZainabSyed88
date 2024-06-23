@@ -1,4 +1,4 @@
-# Hi, I'm [Zainab Saeed] 👋
+# Hi, I'm Zainab Saeed 👋
 
 ## Experienced Windows Administrator & Aspiring Data Scientist
 
