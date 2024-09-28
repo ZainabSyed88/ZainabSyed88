@@ -5,12 +5,12 @@
 I have a solid background in managing and optimizing Windows environments for diverse clients, along with expertise in virtualization technologies such as VMware and Hyper-V. With proficiency in Python programming and popular data science libraries, I am passionate about leveraging data science and AI methodologies to extract meaningful insights and drive informed decision-making.
 
 ### 🛠 Technical Skills:
-- **Windows Administration**: Management, optimization, security
+- **Windows Administration**: Management, optimization
 - **Virtualization**: VMware, Hyper-V
-- **Programming**: Python
-- **Data Science Libraries**: PyTorch, NumPy, Pandas, Sklearn, Matplotlib
+- **Programming**: Python, SQL, MongoDB
+- **Data Science Libraries**: PyTorch, NumPy, Pandas, Sklearn, Matplotlib, TensorFlow
 - **Deep Learning**: Techniques, computer vision, natural language processing (NLP)
-- **Statistics**: Strong foundation
+- **Statistics**: Strong foundation, Probability
 - **Data Visualization**: Tableau, Microsoft Power BI
 
 ### 📈 Projects:
