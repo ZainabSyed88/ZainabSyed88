@@ -1,6 +1,6 @@
 # Hi, I'm Zainab Saeed 👋
 
-## Experienced Windows Administrator & Aspiring Data Scientist
+## Data Scientist || Machine Learning Engineer
 
 I have a solid background in managing and optimizing Windows environments for diverse clients, along with expertise in virtualization technologies such as VMware and Hyper-V. With proficiency in Python programming and popular data science libraries, I am passionate about leveraging data science and AI methodologies to extract meaningful insights and drive informed decision-making.
 
